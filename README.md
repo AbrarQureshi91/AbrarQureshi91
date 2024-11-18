@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrarqureshi91" alt="abrarqureshi91" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce Django web**
+- 🔭 I’m currently working on **E-commerce APIs Asp.net Core**
 
-- 🌱 I’m currently learning **Django-rest-framework**
+- 🌱 I’m currently learning **Asp.Net Core Web API**
 
-- 💬 Ask me about **Django , WordPress and Front End**
+- 💬 Ask me about **Asp.Net Core Web API , MVC , Django , WordPress and Front End**
 
 - 📫 How to reach me **abrarqureshi572141@gmail.com**
 
